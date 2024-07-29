@@ -1,0 +1,1 @@
+This Script creates a basic startup notification that says "Hi!", "Welcome back again!" and also has a nice image this only works for Windows I am not sure I didn't test it on any other devices i recommend not installing it thank you.
